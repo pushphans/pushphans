@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pushp Hans</h1>
-<h3 align="center">🚀 Flutter Developer | 📱 Turning Ideas Into Beautiful Mobile Apps 💡</h3>
+<h3 align="center">
+Product Engineer | Flutter • AI Integration • Python Microservices • ASP.NET Core
+</h3>
 
 <br>
 
-<!-- Two GIFs Side by Side with Same Height -->
 <p align="center">
-  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" height="260"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="flutter" height="260"/>
+  <img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding" height="240"/>
 </p>
 
 <br>
@@ -18,38 +17,74 @@
 
 ---
 
-- 🌱 I’m currently learning **Firebase, Rest APIs, State Management, Animations, Responsive UI**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/pushphans](https://github.com/pushphans/pushphans)
+I’m a **Product Engineer** focused on building real-world mobile products with intelligent features.
 
-- 💬 Ask me about **Flutter, Dart, Firebase (Firestore, Realtime DB, Auth), REST APIs, State Management, Animations, Responsive UI**
+- I primarily develop **Flutter applications**, owning frontend architecture, feature development, and production-ready implementations.  
+- I integrate **AI systems using Python-based microservices**, where AI is part of the core workflow (e.g. intelligent data processing and automation).  
+- I collaborate closely with backend teams to deliver end-to-end features, and for learning and internal projects, I also build backend APIs using **ASP.NET Core**.  
+- I’m comfortable owning the **full delivery flow**, including Play Store and App Store deployments.
 
-- 📫 How to reach me **pushp.hans1502@gmail.com**
-
-- ⚡ Fun fact **I built more Flutter apps by experimenting than by following tutorials 😉**
+I enjoy building software that is practical, maintainable, and solves real product problems.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🧠 What I Work With
+
+**Mobile & Product Engineering**
+- Flutter, Dart
+- Bloc / Cubit
+- Clean Architecture
+
+**AI & Backend Integration**
+- Python
+- FastAPI
+- AI Integration (LLM-based workflows)
+- REST APIs, API Design
+
+**Backend (Working Knowledge)**
+- ASP.NET Core
+
+**Delivery & Tooling**
+- Git, Postman
+- Play Store Deployment
+- App Store Deployment
+
+---
+
+### 📂 Featured Projects
+You’ll find here:
+- Production-oriented Flutter applications  
+- API integration examples  
+- AI-powered features using Python microservices  
+- Practice backend services built with ASP.NET Core  
+
+👉 All projects: **https://github.com/pushphans**
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/pushp-hans-b53499218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushp-hans" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pushp__hans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushp__hans" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pushp-hans-b53499218" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pushp.hans1502@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         alt="Email"
+         height="30"
+         width="40" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushphans&theme=tokyonight" alt="pushphans" />
 </p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pushphans&theme=tokyonight" alt="pushphans" /></p>
