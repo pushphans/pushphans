@@ -1,6 +1,6 @@
 # Hey, I'm Pushp Hans 👋
 
-**Flutter & Applied AI Engineer** — I build mobile products and production-grade agentic AI systems.
+**Flutter & Agentic AI Engineer** — I build mobile products and production-grade agentic AI systems.
 
 ---
 
@@ -16,7 +16,7 @@
 
 **AI & Agents** → LangGraph • LangChain • FastAPI • Python • LLM Integration • PostgreSQL • Redis • Docker
 
-**Mobile** → Flutter • Dart • BLoC/Cubit • Clean Architecture
+**Mobile** → Flutter • Dart • State Management • Clean Architecture
 
 ---
 
