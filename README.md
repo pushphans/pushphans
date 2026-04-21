@@ -37,5 +37,4 @@
 
 *Open to roles at funded startups & product companies — Flutter, Applied AI, or both.*
 
-![Snake animation](https://githubusercontent.com)
 
