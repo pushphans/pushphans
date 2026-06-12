@@ -40,6 +40,6 @@ Tooling | Docker, Git, Play Store & App Store Deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pushphans-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushphans)
 [![GitHub](https://img.shields.io/badge/GitHub-pushphans-black?style=flat&logo=github)](https://github.com/pushphans)
-[![Email](https://img.shields.io/badge/Email-pushp.hans1502-red?style=flat&logo=gmail)](mailto:pushp.hans1502@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pushp.hans.official@gmail.com-red?style=flat&logo=gmail)](mailto:pushp.hans.official@gmail.com)
 
 *Open to impactful roles at funded startups & product companies — Flutter, Applied AI, or where the two collide.*
