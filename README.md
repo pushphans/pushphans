@@ -1,40 +1,45 @@
 # Hey, I'm Pushp Hans 👋
 
-**Flutter & Agentic AI Engineer** — I build mobile products and production-grade agentic AI systems.
+**Flutter & Applied AI Engineer** — I ship end-to-end products: polished mobile UIs, agentic backends, and everything in between.
 
 ---
 
-### 🤖 What I've Built
+### 🚀 What I'm Building
 
-- **Production Multi-Agent System** — Conversational agent with persistent chat history + a subagent that dynamically generates DB queries to surface data on the frontend (LangGraph + FastAPI + PostgreSQL)
-- **Flutter Applications** — 1 year production experience, end-to-end ownership from architecture to Play Store & App Store deployment
-- **LLM-powered backends** — FastAPI microservices wrapping LangChain/LangGraph agents, ready for real-world use
+- **Full-Stack AI Apps** → Flutter frontends powered by Python/FastAPI backends with AI agents that do real work (analyze photos, plan trips, manage tasks).
+- **Multi-Agent Systems** → Production-style agents using LangGraph: persistent memory, tool use, and coordinated swarms — deployed and tested.
+- **Real-World Mobile Apps** → 15+ Flutter apps from emergency utilities to expense trackers, many with offline caching, native APIs, and store deployment.
 
----
-
-### 🛠 Stack
-
-**AI & Agents** → LangGraph • LangChain • FastAPI • Python • LLM Integration • PostgreSQL • Redis • Docker
-
-**Mobile** → Flutter • Dart • State Management • Clean Architecture
+📂 **30+ public repositories** across Flutter, Python, AI agents, and more — all open-source on [my GitHub](https://github.com/pushphans).
 
 ---
 
-### 📂 Projects
+### 🧠 Tech Stack
+AI / Backend | LangGraph, LangChain, FastAPI, Python, LLM Integration, PostgreSQL, Streaming APIs, Guardrails
+Mobile | Flutter, Dart, GetX/Riverpod, Clean Architecture, Firebase, SQLite, Native Android APIs
+Tooling | Docker, Git, Play Store & App Store Deployment
 
-| Project | Stack | What it does |
+
+---
+
+### ⚡ Featured Projects
+
+| Project | Stack | What It Does |
 |---|---|---|
-| Multi-Agent System | LangGraph + FastAPI + PostgreSQL | Chat agent with memory + DB query subagent |
-| Flutter + AI App | Flutter + FastAPI | Mobile app on top of AI backend |
-| RAG Pipeline *(WIP)* | LangChain + Vector DB | Retrieval-Augmented Generation |
+| **Vibe Check** | Flutter + FastAPI + AI Agent | Full-stack style review app — users upload a photo, agent analyzes it and gives personalized feedback, tips, and commentary. |
+| **AI Agents Monorepo** | Python, LangGraph, LangChain | Curated monorepo with multiple agent projects (ReAct, multi-agent support, essay reviewer, etc.) — all in one place for easy discovery. |
+| **Multi-Agent Customer Support** | LangGraph, Python | Coordinates triage, answer generation, and escalation with a swarm of agents. Production‑ready conversational flows. |
+| **Advanced ReAct Agent** | LangGraph, Python | Reason+Act loop with memory and external tools — demonstrates deep agent architecture and prompt engineering. |
+| **Expense Tracker** | Flutter, SQLite | Offline‑first expense manager with charts, caching, and full CRUD. Clean state management and data visualization. |
+
+*Plus 14+ AI agents & 15+ mobile apps — all public, all built to solve real problems.*
 
 ---
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pushphans1502-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pushphans1502)
-[![Email](https://img.shields.io/badge/Gmail-pushp.hans1502-red?style=flat&logo=gmail)](mailto:pushp.hans1502@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pushphans-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pushphans)
+[![GitHub](https://img.shields.io/badge/GitHub-pushphans-black?style=flat&logo=github)](https://github.com/pushphans)
+[![Email](https://img.shields.io/badge/Email-pushp.hans1502-red?style=flat&logo=gmail)](mailto:pushp.hans1502@gmail.com)
 
-*Open to roles at funded startups & product companies — Flutter, Applied AI, or both.*
-
-
+*Open to impactful roles at funded startups & product companies — Flutter, Applied AI, or where the two collide.*
