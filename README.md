@@ -1,6 +1,6 @@
 # Hey, I'm Pushp Hans 👋
 
-**Flutter & Applied AI Engineer** — I ship end-to-end products: polished mobile UIs, agentic backends, and everything in between.
+**Full-Stack AI Engineer | GenAI & Agentic AI Specialist (Langchain/Langgraph) | Flutter Mobile Developer** — I ship end-to-end products: polished mobile UIs, agentic backends, and everything in between.
 
 ---
 
