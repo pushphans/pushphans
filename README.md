@@ -1,38 +1,36 @@
 # Hey, I'm Pushp Hans 👋
 
-**Full-Stack AI Engineer | GenAI & Agentic AI Specialist (Langchain/Langgraph) | Flutter Mobile Developer** — I ship end-to-end products: polished mobile UIs, agentic backends, and everything in between.
+**Flutter Developer & GenAI Engineer** — I bridge the gap between complex AI architectures and smooth mobile experiences. I am specialize in building AI-Native Flutter applications powered by multi-agent workflows and LangGraph backends.
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 Technical Expertise & Core Focus
 
-- **Full-Stack AI Apps** → Flutter frontends powered by Python/FastAPI backends with AI agents that do real work (analyze photos, plan trips, manage tasks).
-- **Multi-Agent Systems** → Production-style agents using LangGraph: persistent memory, tool use, and coordinated swarms — deployed and tested.
-- **Real-World Mobile Apps** → 15+ Flutter apps from emergency utilities to expense trackers, many with offline caching, native APIs, and store deployment.
-
-📂 **30+ public repositories** across Flutter, Python, AI agents, and more — all open-source on [my GitHub](https://github.com/pushphans).
+* **AI-Native Flutter Apps** → Integrating LLMs, streaming tokens, and responsive state updates into cross-platform mobile apps.
+* **Agentic Workflows (LangGraph)** → Designing cyclic graphs, persistent memory states, tool execution loops, and multi-agent coordination.
+* **Production-Ready Code** → Writing clean architecture in Dart/Flutter alongside scalable FastAPI/Python backend services.
 
 ---
 
 ### 🧠 Tech Stack
-AI / Backend | LangGraph, LangChain, FastAPI, Python, LLM Integration, PostgreSQL, Streaming APIs, Guardrails
-Mobile | Flutter, Dart, GetX/Riverpod, Clean Architecture, Firebase, SQLite, Native Android APIs
-Tooling | Docker, Git, Play Store & App Store Deployment
 
+* **Mobile:** Flutter, Dart, State Management (GetX/Riverpod), Clean Architecture, SQLite, Firebase, Native Android APIs
+* **GenAI / Backend:** LangGraph, LangChain, Python, FastAPI, Streaming APIs, Vector Embeddings, RAG Pipelines
+* **DevOps & Tooling:** Git, Docker, Postman, Play Store & App Store Deployment
 
 ---
 
 ### ⚡ Featured Projects
 
-| Project | Stack | What It Does |
+| Project | Stack | Core Implementation |
 |---|---|---|
-| **Vibe Check** | Flutter + FastAPI + AI Agent | Full-stack style review app — users upload a photo, agent analyzes it and gives personalized feedback, tips, and commentary. |
-| **AI Agents Monorepo** | Python, LangGraph, LangChain | Curated monorepo with multiple agent projects (ReAct, multi-agent support, essay reviewer, etc.) — all in one place for easy discovery. |
-| **Multi-Agent Customer Support** | LangGraph, Python | Coordinates triage, answer generation, and escalation with a swarm of agents. Production‑ready conversational flows. |
-| **Advanced ReAct Agent** | LangGraph, Python | Reason+Act loop with memory and external tools — demonstrates deep agent architecture and prompt engineering. |
-| **Expense Tracker** | Flutter, SQLite | Offline‑first expense manager with charts, caching, and full CRUD. Clean state management and data visualization. |
+| **Vibe Check** | Flutter, FastAPI, GenAI Agent | Full-stack AI-native mobile app. Users upload photos; a backend agent analyzes visual data and streams personalized stylistic feedback back to the Flutter UI. |
+| **AI Agents Monorepo** | Python, LangGraph, LangChain | A curated production-style repository demonstrating ReAct loops, multi-agent swarms, and advanced prompt engineering. |
+| **Multi-Agent Customer Support** | LangGraph, Python | Coordinates triage, response generation, and escalation protocols using a swarm of specialized agents with persistent memory. |
+| **Advanced ReAct Agent** | LangGraph, Python | Implements a complete Reason+Act loop equipped with external execution tools, demonstrating deep agentic architecture. |
+| **Expense Tracker** | Flutter, SQLite | Offline-first mobile expense manager featuring local data caching, clean state management, and real-time data visualization. |
 
-*Plus 14+ AI agents & 15+ mobile apps — all public, all built to solve real problems.*
+*Explore 30+ public repositories across Flutter, Python, and Agentic AI architectures on my profile.*
 
 ---
 
@@ -42,4 +40,4 @@ Tooling | Docker, Git, Play Store & App Store Deployment
 [![GitHub](https://img.shields.io/badge/GitHub-pushphans-black?style=flat&logo=github)](https://github.com/pushphans)
 [![Email](https://img.shields.io/badge/Email-pushp.hans.official@gmail.com-red?style=flat&logo=gmail)](mailto:pushp.hans.official@gmail.com)
 
-*Open to impactful roles at funded startups & product companies — Flutter, Applied AI, or where the two collide.*
+*Open to impactful roles at tech startups and product-driven companies in Delhi-NCR or Remote — specializing in Flutter & Generative AI Integration.*
